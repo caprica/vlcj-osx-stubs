@@ -25,7 +25,7 @@
 
     <groupId>uk.co.caprica</groupId>
     <artifactId>vlcj-osx-stubs</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>vlcj stub classes for cross-compiling</name>
     <description>Various stub classes that are required when cross-compiling for OSX on other operating systems.</description>
